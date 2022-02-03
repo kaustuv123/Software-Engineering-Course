@@ -8,6 +8,7 @@ My list of available free/paid courses, bootcamps and academy available for Codi
 | AttainU              | Online        | ₹2L upfront  or ₹3L after getting job | https://www.attainu.com/ |
 | Masai School         | Online/Bangalore/Pune      |   ₹2L+GST upfront  or ₹3L after getting job | https://www.masaischool.com/ |
 | The Valley Bootcamp        | Bangalore      |    ₹ 54990/- [Multiple course available] | https://www.thevalleybootcamp.com/|
+| Accio jobs           | Delhi | ₹49,999 upfront or ₹1.2L after getting job | https://acciojob.com/ |
 | GeekSchool| Bangalore | Free | https://www.geekskool.com/ |
 | Jaaga Study | Bangalore | No info available| https://www.jaaga.in/study |
 | HackingSchool | Multiple Locations| No info available| https://thehackingschool.com |
